@@ -6,6 +6,7 @@
  * @package WordPress
  */
 // command in line
+// check github pipeline
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
